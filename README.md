@@ -1,6 +1,8 @@
 # ResearchPresentations
-Research presentations I have personally given or was coauthor
+Research presentations I have personally given or was coauthor.
+
 Files in form "VenueType_Topic_Year" 
+
 Venue names defined as follows:
   ASB = American Society of Biomechanics; ASBEast = ASB East Coast Regional Meeting; 
   ISB = International Society of Biomechanics; UW = University of Wyoming; 
