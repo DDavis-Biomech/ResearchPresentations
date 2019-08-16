@@ -10,4 +10,4 @@ Venue names defined as follows:
 Type:
   Present = Podium/Oral presentation; Poster = Poster presentation; Abstract = refereed abstract
   
-Please get in touch with me if you find these errors in opening these files.
+Please get in touch with me if you find errors in opening these files.
