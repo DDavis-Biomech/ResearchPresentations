@@ -7,6 +7,7 @@ Venue names defined as follows:
   ASB = American Society of Biomechanics; ASBEast = ASB East Coast Regional Meeting; 
   ISB = International Society of Biomechanics; UW = University of Wyoming; 
   URD = Undergraduate Research Day (at UW); BMES = Biomedical Engineering Society
+  NSCA = National Strength and Conditioning Association
   
 Type:
   Present = Podium/Oral presentation; Poster = Poster presentation; Abstract = refereed abstract
